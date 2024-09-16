@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A968947895%2C%22first_name%22%3A%22Kiet%20%F0%9F%8D%85%22%2C%22last_name%22%3A%22Anh%22%2C%22username%22%3A%22anhkiet1010%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=427876936974221056&chat_type=sender&auth_date=1726066906&hash=4cefde91388757daa2a2656b1c3ad70835a1a4dfd37e9255d36f8ad2bf3d034b
